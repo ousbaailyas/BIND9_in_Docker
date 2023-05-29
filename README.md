@@ -184,4 +184,4 @@ This process typically occurs within milliseconds, and subsequent requests may b
 ## References
 
 - [Bind9 Configuration and Zone Files](https://bind9.readthedocs.io/en/v9_18_10/chapter3.html)
-- [IANA's DNS Resource Records TYPEs](https://www.iana.org
+- [IANA's DNS Resource Records TYPEs](https://www.iana.org)
